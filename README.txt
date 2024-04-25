@@ -8,4 +8,4 @@ I'm Jivitesh Arora, a passionate data enthusiast currently exploring cloud techn
 
 ## Getting Started
 
-To view the website, simply visit [https://jivitesh2003.github.io/Jivitesh_portfolio/](https://jivitesh2003.github.io/Jivitesh_portfolio/)
+To view the website, simply visit [Click here](https://jivitesh2003.github.io/Jivitesh_portfolio/)
